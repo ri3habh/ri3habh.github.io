@@ -1,2 +1,2 @@
-# ri3habh.github.io
-Biography website for Rishabh Sharma, a 3rd year CS student @ UWaterloo
+# Hey, I'm Rishabh.
+3rd year CS Student @ UWaterloo. I thrive when tech meets creativity.
